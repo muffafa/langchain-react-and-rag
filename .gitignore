@@ -529,3 +529,6 @@ MigrationBackup/
 # End of https://www.toptal.com/developers/gitignore/api/python,vs
 
 blog.txt
+transcription_result.pdf
+
+faiss_index_transcription/

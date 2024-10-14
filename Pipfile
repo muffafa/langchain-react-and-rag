@@ -10,6 +10,8 @@ python-dotenv = "*"
 langchain-google-genai = "*"
 langchain-huggingface = "*"
 langchain-pinecone = "*"
+pypdf = "*"
+faiss-cpu = "*"
 
 [dev-packages]
 
